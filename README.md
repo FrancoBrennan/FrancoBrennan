@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Franco Ezequiel Brennan and I'm a Computer Engineering Student and Backend Developer.</p>
+<p align="left">My name is Franco Ezequiel Brennan and I'm a Software Engineering Student and Backend Developer.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Fourth-year student of Computer Engineering with a passionate focus on software development, particularly in backend.<br><br>💻 Strong skills in Java and Spring Boot, with a keen interest in creating efficient and scalable solutions for real-world problems.<br><br>🚀 Exploration enthusiast always seeking to learn new things.</p>
+<p align="left">🎓 Fifth-year student of Software Engineering with a passionate focus on software development, particularly in backend.<br><br>💻 Strong skills in Java and Spring Boot, with a keen interest in creating efficient and scalable solutions for real-world problems.<br><br>🚀 Exploration enthusiast always seeking to learn new things.</p>
 
 ###
 
